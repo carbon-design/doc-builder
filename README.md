@@ -1,2 +1,0 @@
-# doc-builder
-📦 Doc Builder
